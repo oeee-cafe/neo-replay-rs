@@ -1,0 +1,4 @@
+target/
+*.pch
+*.png
+.DS_Store
